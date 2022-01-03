@@ -1,0 +1,25 @@
+.gamexucxac {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-image: url('assets/bgGame.png');
+  font-family: fontGame;
+}
+.container{
+    width: 60%;
+}
+
+@font-face {
+    font-family: fontGame;
+    src: url(./font/Pony.ttf);
+}
+
+.oCuoc{
+    width: 180px;
+    height: 180px;
+    background-color: rgb(66, 66, 143);
+    border-radius: 20px;
+    border:5px solid greenyellow;
+    color: white;
+    font-size: 50px;
+}
